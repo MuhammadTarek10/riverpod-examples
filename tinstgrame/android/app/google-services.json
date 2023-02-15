@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "148177415463",
+    "project_id": "t-instgrame-clone-riverpod",
+    "storage_bucket": "t-instgrame-clone-riverpod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148177415463:android:7bde2bf1cf156e4509cd02",
+        "android_client_info": {
+          "package_name": "com.tarek.tinstgrame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148177415463-ihroadm4ftlgtdvuaera4kobunc7c13k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOp37tyQ1b61udfhdk5HsKtPDpiIn2b0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148177415463-ihroadm4ftlgtdvuaera4kobunc7c13k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148177415463-lorgijdkgt62u76s0oee7m68ljcvrn3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tarek.tinstgrame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
